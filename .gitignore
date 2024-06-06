@@ -3,3 +3,5 @@
 .RData
 .Ruserdata
 *.pptx
+*.xlsx
+dummy_folder/
